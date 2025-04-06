@@ -33,9 +33,10 @@ This project focuses on enhancing product data by cleaning inconsistencies, hand
 ## Conclusion
 These steps improved the overall quality of the dataset, making it more usable, engaging, and consistent across platforms. The optimization ensures better discoverability and a more professional presentation of product data.
 
-## Sample Visuals
+## Visualizations
 
 ### Before and After – Title Column
+https://github.com/SHALOM-1434/Marketing_Data_Optimization/commit/44b2fbe25f45a68d811ba40fff3ae08e98238d04
 
 ### Before and After – Bullet Points
 
